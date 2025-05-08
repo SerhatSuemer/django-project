@@ -1,6 +1,6 @@
 # TechMax – Django Webshop
 
-🔗 **Live-Demo ansehen:** [techmax.pythonanywhere.com](https://techmax.pythonanywhere.com)
+🔗 **Live-Demo ansehen:** [serhatsuemer.pythonanywhere.com](https://serhatsuemer.pythonanywhere.com)
 
 Ein selbstständig entwickelter Webshop mit Django.  
 Erstellt zur Vertiefung meiner Kenntnisse in Python und Webentwicklung (auf Basis eines Udemy-Kurses).
